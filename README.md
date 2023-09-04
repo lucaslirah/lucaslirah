@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi there, I'm Lucas Lira 👋</h1></div>
+<div align="center"><h1>Hi there, I'm Lucas Lira 👋🏾</h1></div>
 
 <div display="inline-block">
     <img align="right" width="400" src="https://i.imgur.com/h57X7wZ.png" alt="coding">
