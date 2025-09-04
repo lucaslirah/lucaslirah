@@ -5,16 +5,25 @@
 </div>
 
 <div>
-    <h3>🎯 I'm currently studying hard to be a Web Developer! 👨‍💻</h3>
+    <h3>Software Engineering student with a passion for building robust and scalable applications. 👨‍💻</h3>
     <ul>
         <li><strong>Current Stack</strong>
             <ul>
-                <li>⚙️ Languages: <img width="18" alt="javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.</li>
-                <li>📡 Backend: <img width="18" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />, <img width="18" alt="sqlite-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />.</li>
+                <li>📡 Backend: <img width="18" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />, 
+                    <img width="18" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> .</li>
                 <li>💻 Frontend Web: <img width="18" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />, <img width="18" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />, <img width="18" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />, <img width="18" alt="javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.</li>
-                <li>🎨 Layout Design: <img width="18" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />.</li>
-                <li>📦 Version Code Control:<img width="18" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />, <img width="18" style="background-color: white" alt="github-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />.</li>
-                <li>🛠️ Tools: <img width="18" alt="vscode-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />.</li>
+                <li>🛢️ Database: 
+                    <img width="18" alt="sqlite-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />,   
+                    <img width="18" alt="postgresql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+</li>
+                <li>🛠️ Tools: 
+                    <img width="18" alt="vscode-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />, 
+                    <img width="18" alt="webstorm-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />,
+                    <img width="18" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />,
+                    <img width="18" style="background-color: white" alt="github-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />,
+                    <img width="18" alt="insomnia-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />,
+                    <img width="18" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          .</li>
             </ul>
         </li>
     </ul>
@@ -24,9 +33,8 @@
     <h3>📝 More about me</h3>
     <ul>
         <li>✒️ I'm passionate about graphic design.</li>
-        <li>🌐 I'm from Brazil, but I also speak English and Spanish.</li>
-        <li>🎸 I play a little guitar and I like to draw.</li>
-        <li>✨ Fun fact: I almost crashed backstage at a comedy show.</li>
+        <li>🌐 I speak English and Spanish.</li>
+        <li>🎯 I'm an enthusiast for backend development and always seeking new challenges.</li>
     </ul>
 </div>
 
