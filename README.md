@@ -9,7 +9,7 @@
     <ul>
         <li><strong>Current Stack</strong>
             <ul>
-                <li>⚙️ Main language: <img width="18" alt="javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.</li>
+                <li>⚙️ Languages: <img width="18" alt="javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.</li>
                 <li>📡 Backend: <img width="18" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />, <img width="18" alt="sqlite-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />.</li>
                 <li>💻 Frontend Web: <img width="18" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />, <img width="18" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />, <img width="18" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />, <img width="18" alt="javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.</li>
                 <li>🎨 Layout Design: <img width="18" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />.</li>
