@@ -42,10 +42,10 @@
 
 <div align="center">
     <a href="https://github.com/lucaslirah">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslirah&show=prs_merged,prs_merged_percentage&theme=react&hide=issues&show_icons=true" alt="Lucas Lira's GitHub stats">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucaslirah&show=prs_merged,prs_merged_percentage&theme=react&hide=issues&show_icons=true" alt="Lucas Lira's GitHub stats">
     </a>
     <a href="https://github.com/lucaslirah">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslirah&layout=compact&langs_count=10&theme=react" alt="Lucas Lira's top langs">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslirah&layout=compact&langs_count=10&theme=react" alt="Lucas Lira's top langs">
     </a>
 </div>
 
