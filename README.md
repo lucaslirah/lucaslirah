@@ -34,7 +34,7 @@
     <ul>
         <li>✒️ I'm passionate about graphic design.</li>
         <li>🌐 I speak English and Spanish.</li>
-        <li>🎯 I'm an enthusiast for backend development and always seeking new challenges.</li>
+        <li>🎯 I'm an enthusiast for backend/frontend development and always seeking new challenges.</li>
     </ul>
 </div>
 
