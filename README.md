@@ -5,7 +5,7 @@
 </div>
 
 <div>
-    <h3>Software Engineering student and Full Stack Developer trained at Rocketseat with a passion for building robust and scalable applications. 👨‍💻</h3>
+    <h3>Software Engineering student and Full Stack Developer trained at Rocketseat with a passion for building robust and scalable applications. 👨🏾‍💻</h3>
     <ul>
         <li><strong>Current Stack</strong>
             <ul>
