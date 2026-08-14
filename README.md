@@ -39,17 +39,24 @@
 </div>
 
 <br>
+<p align="center">
+  <a href="https://github.com/lucaslirah">
+    <img 
+      height="195" 
+      src="https://github-stats-extended.vercel.app/api?username=lucaslirah&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=monokai" 
+      alt="Lucas Lira's GitHub Stats" 
+    />
+  </a>
+  <a href="https://github.com/lucaslirah">
+    <img 
+      height="195" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=lucaslirah&layout=compact&langs_count=10&theme=monokai" 
+      alt="Lucas Lira's Most Used Languages" 
+    />
+  </a>
+</p>
 
-<div align="center">
-    <a href="https://github.com/lucaslirah">
-        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucaslirah&show=prs_merged,prs_merged_percentage&theme=react&hide=issues&show_icons=true" alt="Lucas Lira's GitHub stats">
-    </a>
-    <a href="https://github.com/lucaslirah">
-        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucaslirah&layout=compact&langs_count=10&theme=react" alt="Lucas Lira's top langs">
-    </a>
-</div>
-
-<div align="center">
+<div align="center" >
     <h1>How to reach me 📫</h1>
     <a href="https://www.linkedin.com/in/lucas-lira-411618119/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon">
